@@ -2,8 +2,8 @@
   // put your setup code here, to run once:
 int on = 5V;
 int off = GND;
-int wet = 0;
-int dry = 0;
+int wet = A3;
+int dry = A3;
 
 
 void setup() {
